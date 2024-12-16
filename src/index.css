@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Maloney";
+  src: url("./assets/fonts/Maloney.ttf");
+}
+
+:root {
+  background-color: #1a1b33;
+  color: white;
+}
+
+h1 {
+  font-family: "Maloney", serif;
+}
+
+h3 {
+  font-family: "Maloney", serif;
+}
